@@ -1,4 +1,4 @@
 # cool-resources
 
-https://roadmap.sh/
-https://devhints.io/
+- https://roadmap.sh/
+- https://devhints.io/
