@@ -2,6 +2,7 @@
 
 - https://roadmap.sh/
 - https://devhints.io/
+- https://www.devui.io/
 ## Tools
 - https://github.com/knadh/listmonk
 
